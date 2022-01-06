@@ -1,0 +1,2 @@
+var text = '{ "pokemons" : [' +  
+    '{"pokemon1" : "Pekka"}'   ]}' ;
